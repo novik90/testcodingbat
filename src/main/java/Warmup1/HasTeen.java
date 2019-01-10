@@ -5,7 +5,9 @@ package Warmup1;
 public class HasTeen {
 
     public static void main(String[] args) {
-
+        System.out.println(hasTeen(13, 20, 10));
+        System.out.println(hasTeen(20, 19, 10));
+        System.out.println(hasTeen(20, 10, 13));
     }
 
     private static boolean hasTeen(int a, int b, int c) {
