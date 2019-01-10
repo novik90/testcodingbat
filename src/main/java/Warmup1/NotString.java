@@ -8,6 +8,7 @@ public class NotString {
         System.out.println(notString("candy"));
         System.out.println(notString("x"));
         System.out.println(notString("not bad"));
+        System.out.println(notString("one not two"));
     }
 
     private static String notString (String str) {
