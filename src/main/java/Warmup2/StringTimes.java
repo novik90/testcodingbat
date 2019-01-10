@@ -8,6 +8,7 @@ public class StringTimes {
         System.out.println(stringTimes("Hi", 1));
         System.out.println(stringTimes("Hello", 4));
         System.out.println(stringTimes("Code", 7));
+        System.out.println(stringTimes("x", 4));
     }
 
     private static String stringTimes(String str, int n) {
