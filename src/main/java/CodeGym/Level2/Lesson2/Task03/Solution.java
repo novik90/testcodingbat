@@ -16,7 +16,7 @@ public class Solution {
     }
 
     public static class Woman {
-        public int age;K
+        public int age;
         public int height;
         public Man husband;
     }
