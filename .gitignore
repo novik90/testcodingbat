@@ -9,8 +9,8 @@ target/
 *.iws
 *.info
 *.properties
-pom.xml
-testcodingbat.iml
 
+/pom.xml
+/testcodingbat.iml
 /out/
 /out.log
