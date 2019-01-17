@@ -1,0 +1,14 @@
+#############
+## Idea
+#############
+target/
+.idea/
+.idea
+.repository/
+*.iml
+*.iws
+*.info
+*.properties
+
+/out/
+/out.log

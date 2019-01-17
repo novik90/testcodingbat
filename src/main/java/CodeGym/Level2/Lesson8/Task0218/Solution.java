@@ -1,4 +1,4 @@
-package CodeGym.Level2.Lesson8.Task2018;
+package CodeGym.Level2.Lesson8.Task0218;
 
 public class Solution {
     public static void print3(String s) {
