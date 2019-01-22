@@ -5,6 +5,7 @@ target/
 .idea/
 .idea
 .repository/
+CodeGym/
 *.iml
 *.iws
 *.info
